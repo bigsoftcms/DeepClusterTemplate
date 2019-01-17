@@ -102,3 +102,6 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# temp dir for dataset and other used for DDL
+/temp

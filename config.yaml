@@ -1,0 +1,6 @@
+dataset:
+  dataset_name:
+  dataset_path:
+# you can also define your config here
+# config.yaml will be placed next to main.py
+# so you can access your config from code where path will be "./config.yaml"
