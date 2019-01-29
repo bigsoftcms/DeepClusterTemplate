@@ -105,3 +105,6 @@ venv.bak/
 
 # temp dir for dataset and other used for DDL
 /temp
+
+# pycharm
+.idea/
