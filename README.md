@@ -1,2 +1,3 @@
-# DDLTemplate
-Template for developing a DDL job
+# DeepClusterTemplate
+Template for developing a DeepCluster job
+detailed instructions [here](https://github.com/githublu/DeepCluster/blob/master/docs/index.md)
