@@ -19,11 +19,13 @@ if __name__ == '__main__':
     import argparse
     parser = argparse.ArgumentParser()
     parser.add_argument(
+        '-d',
         '--dataset_path',
         type=str,
         required=True,
         help='Path to the directory contains dataset')
     parser.add_argument(
+        '-o',
         '--output_path',
         type=str,
         required=True,
