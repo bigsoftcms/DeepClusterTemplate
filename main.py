@@ -1,3 +1,4 @@
+import yaml
 # import your packages
 
 # do not rename the functions
@@ -9,7 +10,8 @@ def main(dataset_path, output_path):
     :return:
     """
     print("start running training job")
-    config_path = "./config.yaml"
+    with open("./config.yaml", 'r') as f:
+        config = yaml.load(f)
     # invoke your training function
 
 
